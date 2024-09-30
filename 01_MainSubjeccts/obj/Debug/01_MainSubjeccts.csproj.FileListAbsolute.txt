@@ -1,0 +1,7 @@
+C:\Users\Sedef\source\repos\CSharpEgitimKampi\01_MainSubjeccts\bin\Debug\01_MainSubjeccts.exe.config
+C:\Users\Sedef\source\repos\CSharpEgitimKampi\01_MainSubjeccts\bin\Debug\01_MainSubjeccts.exe
+C:\Users\Sedef\source\repos\CSharpEgitimKampi\01_MainSubjeccts\bin\Debug\01_MainSubjeccts.pdb
+C:\Users\Sedef\source\repos\CSharpEgitimKampi\01_MainSubjeccts\obj\Debug\01_MainSubjeccts.csproj.AssemblyReference.cache
+C:\Users\Sedef\source\repos\CSharpEgitimKampi\01_MainSubjeccts\obj\Debug\01_MainSubjeccts.csproj.CoreCompileInputs.cache
+C:\Users\Sedef\source\repos\CSharpEgitimKampi\01_MainSubjeccts\obj\Debug\01_MainSubjeccts.exe
+C:\Users\Sedef\source\repos\CSharpEgitimKampi\01_MainSubjeccts\obj\Debug\01_MainSubjeccts.pdb
